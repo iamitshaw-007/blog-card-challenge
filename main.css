@@ -68,7 +68,9 @@ body {
   font-weight: 850;
   font-size: 1.625rem;
 }
-
+.card__heading:hover {
+  color: var(--dark-yellow);
+}
 .card__information {
   color: var(--grey-500);
   font-weight: 450;
